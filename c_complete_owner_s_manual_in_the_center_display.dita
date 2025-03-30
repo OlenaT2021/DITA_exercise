@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_complete_owner_s_manual_in_the_center_display">
+    <title>Complete Owner's Manual in the center display</title>
+    <shortdesc>The printed supplement only contains selected information. You can find complete and
+        up-to-date information in the vehicle's center display.</shortdesc>
+    <conbody>
+        <note id="note_hkp_b3r_v2c" type="important">
+            <p>To familiarize yourself with important safety instructions and to optimize your
+                experience, Volvo recommends reading the owner's information under each category in
+                the center display in its entirety before driving the vehicle for the first
+                time.</p>
+        </note>
+        <note id="note_o4s_c3r_v2c" type="important">
+            <p>The driver is always responsible for operating the vehicle in a safe manner and
+                adhering to all applicable laws and regulations. It is also important that the
+                vehicle is operated, maintained and serviced according to Volvo's recommendations
+                provided in the owner's information.</p>
+        </note>
+        <p><b>Finding information in the vehicle's center display</b></p>
+        <p>Complete and up-to-date information for your vehicle is always available in the center
+            display. To access the Owner's Manual, tap <image href="images/icon%201.jpeg" width="14"
+                height="15" id="image_vqt_f3r_v2c"/>and then<image href="images/icon%202.jpeg"
+                width="19" height="14" id="image_pnv_h3r_v2c"/></p>
+        <p>Find information by:<ul id="ul_yjh_q3r_v2c">
+                <li>using the search function</li>
+                <li>visually navigating using exterior and interior images</li>
+                <li>clicking through categories.</li>
+            </ul></p>
+        <note id="note_mcp_t3r_v2c">
+            <p>The digital Owner's Manual is not available during driving.</p>
+            <p>Changing languages in the center display could mean that some of the owner's
+                information will not comply with national or local rules and regulations. Do not
+                change to a language that you do not understand well, as this could make it
+                difficult for you to navigate back through the menu.</p>
+        </note>
+    </conbody>
+</concept>
