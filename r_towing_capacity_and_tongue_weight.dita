@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_towing_capacity_and_tongue_weight">
+    <title>Towing capacity and tongue weight</title>
+    <shortdesc>Towing capacity and tongue weight are shown in the table.</shortdesc>
+    <refbody>
+        <table id="table_kdd_41y_v2c">
+            <tgroup cols="4" align="left">
+                <colspec colnum="1" colname="c1" align="left"/>
+                <colspec colnum="2" colname="c2" align="left"/>
+                <colspec colnum="3" colname="c3"/>
+                <colspec colnum="4" colname="c4"/>
+                <thead>
+                    <row valign="middle">
+                        <entry namest="c1" nameend="c2" align="center">Category</entry>
+                        <entry align="center">USA (lbs)</entry>
+                        <entry align="center">Canada (kg)</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry morerows="2" align="left" valign="middle">Max trailer weights</entry>
+                        <entry align="left" valign="middle">Without brakes</entry>
+                        <entry align="center" valign="middle">1650</entry>
+                        <entry align="center" valign="middle">750</entry>
+                    </row>
+                    <row>
+                        <entry align="left" valign="middle">With brake (AWD)</entry>
+                        <entry align="center" valign="middle">2000</entry>
+                        <entry align="center" valign="middle">900</entry>
+                    </row>
+                    <row>
+                        <entry align="left" valign="middle">Braked (AWD tow pack)</entry>
+                        <entry align="center" valign="middle">3500</entry>
+                        <entry align="center" valign="middle">1580</entry>
+                    </row>
+                    <row>
+                        <entry morerows="1" align="left" valign="middle">Max tongue weight</entry>
+                        <entry align="left" valign="middle">AWD</entry>
+                        <entry align="center" valign="middle">200</entry>
+                        <entry align="center" valign="middle">90</entry>
+                    </row>
+                    <row>
+                        <entry align="left" valign="middle">AWD (tow pack)</entry>
+                        <entry align="center" valign="middle">350</entry>
+                        <entry align="center" valign="middle">150</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table id="table_yxm_chy_v2c" colsep="0" rowsep="0" frame="none">
+            <tgroup cols="1">
+                <colspec colnum="1" colname="c1" colwidth="1*"/>
+                <tbody>
+                    <row>
+                        <entry colsep="0" rowsep="0">
+                            <note id="note_pz2_dhy_v2c" type="important">The maximum trailer weights
+                                listed are only applicable for altitudes up to 3280 ft (1,000 m)
+                                above sea level. With increasing altitude the engine power and
+                                therefore the car's climbing ability are impaired because of the
+                                reduced air density, so the maximum trailer weight has to be reduced
+                                accordingly. The weight of the car and trailer must be reduced by
+                                10% for every further 3280 ft (1,000 m) (or part thereof).</note>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

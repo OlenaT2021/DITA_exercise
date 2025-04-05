@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="g_volvo_cars_app">
+    <glossterm>Volvo cars app</glossterm>
+    <glossdef>
+        <p>an application  that provides remote control functions to protect the vehicle and
+            increase the comfort level.</p>
+    </glossdef>
+</glossentry>

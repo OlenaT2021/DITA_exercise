@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Volvo user guide</title>
+    <topicmeta>
+        <copyright>
+            <copyryear year="2025"/>
+            <copyrholder>Volvo Co.</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2025-03-31"/>
+        </critdates>
+        <prodinfo>
+            <prodname>Volvo user guide</prodname>
+        </prodinfo>
+    </topicmeta>
+    <topicgroup/>
+    <topicref href="c_complete_owner_s_manual_in_the_center_display.dita"/>
+    <topicref href="c_owner_s_information.dita"/>
+    <topicref href="t_how_to_create_a_volvo_id.dita"/>
+    <topicref href="t_how_to_get_started_with_google_services.dita"/>
+    <topicref href="t_how_to_view_the_vehicle_identification_number_vin.dita"/>
+    <topicref href="c_seat_belts.dita"/>
+    <topicref href="r_towing_capacity_and_tongue_weight.dita"/>
+    <topicref href="g_all_wheel_drive.dita"/>
+    <topicref href="g_id.dita"/>
+    <topicref href="g_volvo_cars_app.dita"/>
+    <topicref href="g_volvo_id.dita"/>
+</map>

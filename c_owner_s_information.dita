@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_owner_s_information">
-    <title>Owner's information</title>
+    <title id="owner-info">Owner's information</title>
     <shortdesc>Owner's information is available in several different formats. The Owner's Manual is
         available on the vehicle's center display and on Volvo Cars' support site. There is also a
-        digital Quick Guide<xref
-            href="https://www.volvocars.com/en-ca/support/car/v90-cross-country/article/047b6b9dc7e1d04ec0a81f6f3f0e4f35_ccd67c5e96834c5bc0a80151728feebd/#dcs-note-ccd67c5e96834c5bc0a80151728feebd-0"
-            format="html" scope="external" id="dcs-ref-ccd67c5e96834c5bc0a80151728feebd-0">1</xref>
-        that can be accessed from the Owner's Manual in the center display. The glove compartment
-        contains a supplement with guidance on where to find the digital Owner's Manual.</shortdesc>
+        digital Quick Guide <xref href="#./quick-guide">1</xref> that can be accessed from the
+        Owner's Manual in the center display. The glove compartment contains a supplement with
+        guidance on where to find the digital Owner's Manual.</shortdesc>
     <conbody>
         <p><b>Vehicle's center display</b></p>
         <p>To access the Owner's Manual, tap <image href="images/icon%201.jpeg" width="14"
                 height="15" id="image_hzj_qgr_v2c"/> and then tap<image href="images/icon%202.jpeg"
-                width="19" height="14" id="image_b22_sgr_v2c"/> . This gives you access to visual
+                width="19" height="14" id="image_b22_sgr_v2c"/>. This gives you access to visual
             navigation with exterior and interior images of the vehicle. The information is
             searchable and is divided into categories.</p>
         <note id="note_ynd_tfr_v2c">
@@ -34,10 +32,11 @@
         </p>
         <p><b>Volvo Cars support site</b></p>
         <p>Volvo Cars' website and support site contain additional information about your vehicle. </p>
-        <p>Go to volvocars.com/intl/support and select your country. The website is available on
-            most </p>
+        <p>Go to <xref href="https://www.volvocars.com/intl/support/" format="html" scope="external"
+                >volvocars.com/intl/support</xref> and select your country. The website is available
+            on most </p>
         <p>Contact information for customer support and your nearest Volvo retailer are available on
             the support site.</p>
-        <p>[1] Only available in certain markets.</p>
+        <p id="quick-guide">[1] Only available in certain markets.</p>
     </conbody>
 </concept>

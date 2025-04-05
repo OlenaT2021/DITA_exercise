@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_how_to_get_started_with_google_services">
+    <title>How to get started with Google services</title>
+    <shortdesc>Connect your Google account to your user profile to get started with Google
+        services.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Being logged in with a Google account makes Google services such as the Google
+                Assistant and Google Maps more personalized. For Google Play to open, a Google
+                account must be connected to that user profile.</p>
+            <p><b>How to create a Google account</b></p>
+            <p>Go to <xref href="https://accounts.google.com/signup" format="html" scope="external"
+                    >accounts.google.com/signup</xref>. Enter your name, create or use an existing
+                email address and password. Enter your phone number and verify the account using the
+                code sent to the phone.</p>
+        </context>
+        <steps>
+            <stepsection><b>How to log in with a Google account in the center
+                display</b></stepsection>
+            <step>
+                <cmd>Tap <image href="images/icon%203.jpeg" width="15" height="15"
+                        id="image_a3f_pdx_v2c"/>, then <b>Google</b> and then <b>Google
+                        Assistant</b>. Tap the profile symbol to log in.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the email address connected to your Google account. Then tap
+                    <b>Next</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the password connected to your Google account. Then tap
+                    <b>Next</b>.</cmd>
+            </step>
+        </steps>
+        <result id="result_e42_cgf_x2c">If the login problem persists, make sure the vehicle is
+            connected to the Internet.</result>
+    </taskbody>
+</task>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Oxygen\DITA_exercise\temp\pdf?><?workdir-uri file:/C:/Oxygen/DITA_exercise/temp/pdf/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c_seat_belts" specializations="@props/deliveryTarget" xtrc="concept:1;3:28" xtrf="file:/C:/Oxygen/DITA_exercise/c_seat_belts.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Oxygen/DITA_exercise/c_seat_belts.dita">Seat belts</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Oxygen/DITA_exercise/c_seat_belts.dita">Seat belts should always be worn by all occupants in your vehicle. Children should be
+        properly restrained using an infant seat, adjustable child seat or booster cushion as
+        determined by age, weight and height.</shortdesc><prolog class="- topic/prolog "><copyright class="- topic/copyright " xtrc="copyright:1;6:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;7:37" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap" year="2025"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;8:26" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo Co.</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;10:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <created class="- topic/created " date="2025-03-31" xtrc="created:1;11:41" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap"/>
+        </critdates><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;13:19" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <prodname class="- topic/prodname " xtrc="prodname:1;14:23" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo user guide</prodname>
+        </prodinfo></metadata></prolog>
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;8:14" xtrf="file:/C:/Oxygen/DITA_exercise/c_seat_belts.dita">
+        <p class="- topic/p " xtrc="p:1;9:12" xtrf="file:/C:/Oxygen/DITA_exercise/c_seat_belts.dita">Most states and provinces make it mandatory for occupants of a vehicle to use seat
+            belts.</p>
+        <p class="- topic/p " xtrc="p:2;11:12" xtrf="file:/C:/Oxygen/DITA_exercise/c_seat_belts.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;11:15" xtrf="file:/C:/Oxygen/DITA_exercise/c_seat_belts.dita">Seat belt maintenance</b></p>
+        <p class="- topic/p " xtrc="p:3;12:12" xtrf="file:/C:/Oxygen/DITA_exercise/c_seat_belts.dita">Check periodically that the seat belts are in good condition. Use water and a mild
+            detergent for cleaning. Check the seat belt mechanism's function as follows: attach the
+            seat belt and pull rapidly on the strap.<note class="- topic/note " id="note_f1f_3zx_v2c" type="warning" xtrc="note:1;14:96" xtrf="file:/C:/Oxygen/DITA_exercise/c_seat_belts.dita">
+                <ul class="- topic/ul " id="ul_f22_jzx_v2c" xtrc="ul:1;15:41" xtrf="file:/C:/Oxygen/DITA_exercise/c_seat_belts.dita">
+                    <li class="- topic/li " xtrc="li:1;16:25" xtrf="file:/C:/Oxygen/DITA_exercise/c_seat_belts.dita">Never repair the belt yourself. Repairs should only be performed by a
+                        trained and qualified Volvo service technician.</li>
+                    <li class="- topic/li " xtrc="li:2;18:25" xtrf="file:/C:/Oxygen/DITA_exercise/c_seat_belts.dita">Any device used to induce slack into the shoulder belt portion of the
+                        three-point belt system will have a detrimental effect on the amount of
+                        protection available in the event of a collision.</li>
+                    <li class="- topic/li " xtrc="li:3;21:25" xtrf="file:/C:/Oxygen/DITA_exercise/c_seat_belts.dita">The seat back should not be tilted too far back. The shoulder belt must be
+                        taut in order to function properly.</li>
+                    <li class="- topic/li " xtrc="li:4;23:25" xtrf="file:/C:/Oxygen/DITA_exercise/c_seat_belts.dita">Do not use any type of child restraint in the front passenger seat. We
+                        recommend that children who have outgrown these devices sit in the rear seat
+                        with the seat belt properly fastened.</li>
+                </ul>
+            </note></p>
+    </conbody>
+</concept>

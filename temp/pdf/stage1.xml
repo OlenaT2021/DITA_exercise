@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><map xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap"><opentopic:map xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo user guide</title>
+    <topicmeta class="- map/topicmeta " xtrc="topicmeta:1;5:16" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+        <copyright class="- topic/copyright " xtrc="copyright:1;6:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;7:37" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap" year="2025"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;8:26" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo Co.</copyrholder>
+        </copyright>
+        <critdates class="- topic/critdates " xtrc="critdates:1;10:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <created class="- topic/created " date="2025-03-31" xtrc="created:1;11:41" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap"/>
+        </critdates>
+        <prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;13:19" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <prodname class="- topic/prodname " xtrc="prodname:1;14:23" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo user guide</prodname>
+        </prodinfo>
+    </topicmeta>
+    <topicref class="- map/topicref " first_topic_id="#unique_1" href="#unique_1" id="unique_1" ohref="c_complete_owner_s_manual_in_the_center_display.dita" type="concept" xtrc="topicref:1;17:76" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="c_complete_owner_s_manual_in_the_center_display"><resourceid appid="c_complete_owner_s_manual_in_the_center_display" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Complete Owner's Manual in the center display</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Complete Owner's Manual in the center display</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The printed supplement only contains selected information. You can find complete and         up-to-date information in the vehicle's center display.</shortdesc><copyright class="- topic/copyright " xtrc="copyright:1;6:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;7:37" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap" year="2025"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;8:26" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo Co.</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;10:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <created class="- topic/created " date="2025-03-31" xtrc="created:1;11:41" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap"/>
+        </critdates><prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;13:19" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <prodname class="- topic/prodname " xtrc="prodname:1;14:23" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo user guide</prodname>
+        </prodinfo></topicmeta></topicref>
+    <topicref class="- map/topicref " first_topic_id="#unique_2" href="#unique_2" id="unique_2" ohref="c_owner_s_information.dita" type="concept" xtrc="topicref:2;18:50" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="c_owner_s_information"><resourceid appid="c_owner_s_information" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Owner's information</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Owner's information</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Owner's information is available in several different formats. The Owner's Manual is         available on the vehicle's center display and on Volvo Cars' support site. There is also a         digital Quick Guide <xref class="- topic/xref " href="c_owner_s_information.dita#c_owner_s_information/quick-guide" xtrc="xref:1;7:57" xtrf="file:/C:/Oxygen/DITA_exercise/c_owner_s_information.dita">1</xref> that can be accessed from the         Owner's Manual in the center display. The glove compartment contains a supplement with         guidance on where to find the digital Owner's Manual.</shortdesc><copyright class="- topic/copyright " xtrc="copyright:1;6:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;7:37" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap" year="2025"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;8:26" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo Co.</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;10:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <created class="- topic/created " date="2025-03-31" xtrc="created:1;11:41" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap"/>
+        </critdates><prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;13:19" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <prodname class="- topic/prodname " xtrc="prodname:1;14:23" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo user guide</prodname>
+        </prodinfo></topicmeta></topicref>
+    <topicref class="- map/topicref " first_topic_id="#unique_3" href="#unique_3" id="unique_3" ohref="t_how_to_create_a_volvo_id.dita" type="task" xtrc="topicref:3;19:55" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="t_how_to_create_volvo_id"><resourceid appid="t_how_to_create_volvo_id" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">How to create a Volvo ID</navtitle><?ditaot gentext?><linktext class="- map/linktext ">How to create a Volvo ID</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">To use Volvo services connected to the vehicle, such as via the Volvo Cars app, a         Volvo ID must be created.</shortdesc><copyright class="- topic/copyright " xtrc="copyright:1;6:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;7:37" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap" year="2025"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;8:26" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo Co.</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;10:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <created class="- topic/created " date="2025-03-31" xtrc="created:1;11:41" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap"/>
+        </critdates><prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;13:19" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <prodname class="- topic/prodname " xtrc="prodname:1;14:23" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo user guide</prodname>
+        </prodinfo></topicmeta></topicref>
+    <topicref class="- map/topicref " first_topic_id="#unique_4" href="#unique_4" id="unique_4" ohref="t_how_to_get_started_with_google_services.dita" type="task" xtrc="topicref:4;20:70" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="t_how_to_get_started_with_google_services"><resourceid appid="t_how_to_get_started_with_google_services" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">How to get started with Google services</navtitle><?ditaot gentext?><linktext class="- map/linktext ">How to get started with Google services</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Connect your Google account to your user profile to get started with Google         services.</shortdesc><copyright class="- topic/copyright " xtrc="copyright:1;6:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;7:37" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap" year="2025"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;8:26" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo Co.</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;10:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <created class="- topic/created " date="2025-03-31" xtrc="created:1;11:41" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap"/>
+        </critdates><prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;13:19" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <prodname class="- topic/prodname " xtrc="prodname:1;14:23" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo user guide</prodname>
+        </prodinfo></topicmeta></topicref>
+    <topicref class="- map/topicref " first_topic_id="#unique_5" href="#unique_5" id="unique_5" ohref="t_how_to_view_the_vehicle_identification_number_vin.dita" type="task" xtrc="topicref:5;21:80" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="t_viewing_the_vehicle_identification_number_vin"><resourceid appid="t_viewing_the_vehicle_identification_number_vin" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">How to view the Vehicle Identification Number (VIN)</navtitle><?ditaot gentext?><linktext class="- map/linktext ">How to view the Vehicle Identification Number (VIN)</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">All vehicles have a unique identification number, a VIN <xref class="- topic/xref " href="t_how_to_view_the_vehicle_identification_number_vin.dita#t_viewing_the_vehicle_identification_number_vin/bottom-note" xtrc="xref:1;6:14" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_view_the_vehicle_identification_number_vin.dita">1</xref>.</shortdesc><copyright class="- topic/copyright " xtrc="copyright:1;6:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;7:37" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap" year="2025"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;8:26" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo Co.</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;10:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <created class="- topic/created " date="2025-03-31" xtrc="created:1;11:41" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap"/>
+        </critdates><prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;13:19" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <prodname class="- topic/prodname " xtrc="prodname:1;14:23" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo user guide</prodname>
+        </prodinfo></topicmeta></topicref>
+    <topicref class="- map/topicref " first_topic_id="#unique_6" href="#unique_6" id="unique_6" ohref="c_seat_belts.dita" type="concept" xtrc="topicref:6;22:41" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="c_seat_belts"><resourceid appid="c_seat_belts" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Seat belts</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Seat belts</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Seat belts should always be worn by all occupants in your vehicle. Children should be         properly restrained using an infant seat, adjustable child seat or booster cushion as         determined by age, weight and height.</shortdesc><copyright class="- topic/copyright " xtrc="copyright:1;6:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;7:37" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap" year="2025"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;8:26" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo Co.</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;10:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <created class="- topic/created " date="2025-03-31" xtrc="created:1;11:41" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap"/>
+        </critdates><prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;13:19" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <prodname class="- topic/prodname " xtrc="prodname:1;14:23" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo user guide</prodname>
+        </prodinfo></topicmeta></topicref>
+    <topicref class="- map/topicref " first_topic_id="#unique_7" href="#unique_7" id="unique_7" ohref="r_towing_capacity_and_tongue_weight.dita" type="reference" xtrc="topicref:7;23:64" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="r_towing_capacity_and_tongue_weight"><resourceid appid="r_towing_capacity_and_tongue_weight" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">Towing capacity and tongue weight</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Towing capacity and tongue weight</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Towing capacity and tongue weight are shown in the table.</shortdesc><copyright class="- topic/copyright " xtrc="copyright:1;6:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;7:37" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap" year="2025"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;8:26" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo Co.</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;10:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <created class="- topic/created " date="2025-03-31" xtrc="created:1;11:41" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap"/>
+        </critdates><prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;13:19" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <prodname class="- topic/prodname " xtrc="prodname:1;14:23" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo user guide</prodname>
+        </prodinfo></topicmeta></topicref>
+    <topicref class="- map/topicref " href="g_glossary.dita" id="" ohref="g_glossary.dita" xtrc="topicref:8;24:39" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap"><topicmeta class="- map/topicmeta " data-topic-id=""><resourceid appid="" class="- topic/resourceid " oxy-source="topic"/><copyright class="- topic/copyright " xtrc="copyright:1;6:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;7:37" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap" year="2025"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;8:26" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo Co.</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;10:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <created class="- topic/created " date="2025-03-31" xtrc="created:1;11:41" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap"/>
+        </critdates><prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;13:19" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <prodname class="- topic/prodname " xtrc="prodname:1;14:23" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo user guide</prodname>
+        </prodinfo></topicmeta></topicref>
+</opentopic:map><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="unique_1" oid="c_complete_owner_s_manual_in_the_center_display" specializations="@props/deliveryTarget" xtrc="concept:1;3:63" xtrf="file:/C:/Oxygen/DITA_exercise/c_complete_owner_s_manual_in_the_center_display.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Oxygen/DITA_exercise/c_complete_owner_s_manual_in_the_center_display.dita">Complete Owner's Manual in the center display</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Oxygen/DITA_exercise/c_complete_owner_s_manual_in_the_center_display.dita">The printed supplement only contains selected information. You can find complete and
+        up-to-date information in the vehicle's center display.</shortdesc><prolog class="- topic/prolog "><copyright class="- topic/copyright " xtrc="copyright:1;6:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;7:37" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap" year="2025"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;8:26" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo Co.</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;10:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <created class="- topic/created " date="2025-03-31" xtrc="created:1;11:41" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap"/>
+        </critdates><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;13:19" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <prodname class="- topic/prodname " xtrc="prodname:1;14:23" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo user guide</prodname>
+        </prodinfo></metadata></prolog>
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;7:14" xtrf="file:/C:/Oxygen/DITA_exercise/c_complete_owner_s_manual_in_the_center_display.dita">
+        <note class="- topic/note " id="unique_1_Connect_42_note_hkp_b3r_v2c" type="important" xtrc="note:1;8:54" xtrf="file:/C:/Oxygen/DITA_exercise/c_complete_owner_s_manual_in_the_center_display.dita">
+            <p class="- topic/p " xtrc="p:1;9:16" xtrf="file:/C:/Oxygen/DITA_exercise/c_complete_owner_s_manual_in_the_center_display.dita">To familiarize yourself with important safety instructions and to optimize your
+                experience, Volvo recommends reading the owner's information under each category in
+                the center display in its entirety before driving the vehicle for the first
+                time.</p>
+        </note>
+        <note class="- topic/note " id="unique_1_Connect_42_note_o4s_c3r_v2c" type="important" xtrc="note:2;14:54" xtrf="file:/C:/Oxygen/DITA_exercise/c_complete_owner_s_manual_in_the_center_display.dita">
+            <p class="- topic/p " xtrc="p:2;15:16" xtrf="file:/C:/Oxygen/DITA_exercise/c_complete_owner_s_manual_in_the_center_display.dita">The driver is always responsible for operating the vehicle in a safe manner and
+                adhering to all applicable laws and regulations. It is also important that the
+                vehicle is operated, maintained and serviced according to Volvo's recommendations
+                provided in the owner's information.</p>
+        </note>
+        <p class="- topic/p " xtrc="p:3;20:12" xtrf="file:/C:/Oxygen/DITA_exercise/c_complete_owner_s_manual_in_the_center_display.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;20:15" xtrf="file:/C:/Oxygen/DITA_exercise/c_complete_owner_s_manual_in_the_center_display.dita">Finding information in the vehicle's center display</b></p>
+        <p class="- topic/p " xtrc="p:4;21:12" xtrf="file:/C:/Oxygen/DITA_exercise/c_complete_owner_s_manual_in_the_center_display.dita">Complete and up-to-date information for your vehicle is always available in the center
+            display. To access the Owner's Manual, tap <image class="- topic/image " height="15" href="images/icon%201.jpeg" id="unique_1_Connect_42_image_vqt_f3r_v2c" placement="inline" width="14" xtrc="image:1;23:53" xtrf="file:/C:/Oxygen/DITA_exercise/c_complete_owner_s_manual_in_the_center_display.dita"/> and then <image class="- topic/image " height="14" href="images/icon%202.jpeg" id="unique_1_Connect_42_image_pnv_h3r_v2c" placement="inline" width="19" xtrc="image:2;24:64" xtrf="file:/C:/Oxygen/DITA_exercise/c_complete_owner_s_manual_in_the_center_display.dita"/></p>
+        <p class="- topic/p " xtrc="p:5;25:12" xtrf="file:/C:/Oxygen/DITA_exercise/c_complete_owner_s_manual_in_the_center_display.dita">Find information by:<ul class="- topic/ul " id="unique_1_Connect_42_ul_yjh_q3r_v2c" xtrc="ul:1;25:56" xtrf="file:/C:/Oxygen/DITA_exercise/c_complete_owner_s_manual_in_the_center_display.dita">
+                <li class="- topic/li " xtrc="li:1;26:21" xtrf="file:/C:/Oxygen/DITA_exercise/c_complete_owner_s_manual_in_the_center_display.dita">using the search function</li>
+                <li class="- topic/li " xtrc="li:2;27:21" xtrf="file:/C:/Oxygen/DITA_exercise/c_complete_owner_s_manual_in_the_center_display.dita">visually navigating using exterior and interior images</li>
+                <li class="- topic/li " xtrc="li:3;28:21" xtrf="file:/C:/Oxygen/DITA_exercise/c_complete_owner_s_manual_in_the_center_display.dita">clicking through categories.</li>
+            </ul></p>
+        <note class="- topic/note " id="unique_1_Connect_42_note_mcp_t3r_v2c" xtrc="note:3;30:37" xtrf="file:/C:/Oxygen/DITA_exercise/c_complete_owner_s_manual_in_the_center_display.dita">
+            <p class="- topic/p " xtrc="p:6;31:16" xtrf="file:/C:/Oxygen/DITA_exercise/c_complete_owner_s_manual_in_the_center_display.dita">The digital Owner's Manual is not available during driving.</p>
+            <p class="- topic/p " xtrc="p:7;32:16" xtrf="file:/C:/Oxygen/DITA_exercise/c_complete_owner_s_manual_in_the_center_display.dita">Changing languages in the center display could mean that some of the owner's
+                information will not comply with national or local rules and regulations. Do not
+                change to a language that you do not understand well, as this could make it
+                difficult for you to navigate back through the menu.</p>
+        </note>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="unique_2" oid="c_owner_s_information" specializations="@props/deliveryTarget" xtrc="concept:1;3:37" xtrf="file:/C:/Oxygen/DITA_exercise/c_owner_s_information.dita">
+    <title class="- topic/title " id="unique_2_Connect_42_owner-info" xtrc="title:1;4:28" xtrf="file:/C:/Oxygen/DITA_exercise/c_owner_s_information.dita">Owner's information</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Oxygen/DITA_exercise/c_owner_s_information.dita">Owner's information is available in several different formats. The Owner's Manual is
+        available on the vehicle's center display and on Volvo Cars' support site. There is also a
+        digital Quick Guide <xref class="- topic/xref " href="#unique_2/unique_2_Connect_42_quick-guide" ohref="c_owner_s_information.dita#c_owner_s_information/quick-guide" type="p" xtrc="xref:1;7:57" xtrf="file:/C:/Oxygen/DITA_exercise/c_owner_s_information.dita"><?ditaot usertext?>1</xref> that can be accessed from the
+        Owner's Manual in the center display. The glove compartment contains a supplement with
+        guidance on where to find the digital Owner's Manual.</shortdesc><prolog class="- topic/prolog "><copyright class="- topic/copyright " xtrc="copyright:1;6:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;7:37" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap" year="2025"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;8:26" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo Co.</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;10:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <created class="- topic/created " date="2025-03-31" xtrc="created:1;11:41" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap"/>
+        </critdates><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;13:19" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <prodname class="- topic/prodname " xtrc="prodname:1;14:23" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo user guide</prodname>
+        </prodinfo></metadata></prolog>
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;10:14" xtrf="file:/C:/Oxygen/DITA_exercise/c_owner_s_information.dita">
+        <p class="- topic/p " xtrc="p:1;11:12" xtrf="file:/C:/Oxygen/DITA_exercise/c_owner_s_information.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;11:15" xtrf="file:/C:/Oxygen/DITA_exercise/c_owner_s_information.dita">Vehicle's center display</b></p>
+        <p class="- topic/p " xtrc="p:2;12:12" xtrf="file:/C:/Oxygen/DITA_exercise/c_owner_s_information.dita">To access the Owner's Manual, tap <image class="- topic/image " height="15" href="images/icon%201.jpeg" id="unique_2_Connect_42_image_hzj_qgr_v2c" placement="inline" width="14" xtrc="image:1;13:53" xtrf="file:/C:/Oxygen/DITA_exercise/c_owner_s_information.dita"/> and then tap<image class="- topic/image " height="14" href="images/icon%202.jpeg" id="unique_2_Connect_42_image_b22_sgr_v2c" placement="inline" width="19" xtrc="image:2;14:64" xtrf="file:/C:/Oxygen/DITA_exercise/c_owner_s_information.dita"/>. This gives you access to visual
+            navigation with exterior and interior images of the vehicle. The information is
+            searchable and is divided into categories.</p>
+        <note class="- topic/note " id="unique_2_Connect_42_note_ynd_tfr_v2c" xtrc="note:1;17:37" xtrf="file:/C:/Oxygen/DITA_exercise/c_owner_s_information.dita">
+            <p class="- topic/p " xtrc="p:3;18:16" xtrf="file:/C:/Oxygen/DITA_exercise/c_owner_s_information.dita">Changing languages in the center display could mean that certain owner's information
+                will not comply with national or local laws and regulations. Do not change to a
+                language you do not speak well, as it can be difficult to find your way back through
+                the menu.</p>
+        </note>
+        <p class="- topic/p " xtrc="p:4;23:12" xtrf="file:/C:/Oxygen/DITA_exercise/c_owner_s_information.dita">
+            <note class="- topic/note " id="unique_2_Connect_42_note_tzl_bhr_v2c" type="important" xtrc="note:2;24:58" xtrf="file:/C:/Oxygen/DITA_exercise/c_owner_s_information.dita">
+                <p class="- topic/p " xtrc="p:5;25:20" xtrf="file:/C:/Oxygen/DITA_exercise/c_owner_s_information.dita">The driver is always responsible for operating the vehicle in a safe manner and
+                    adhering to all applicable laws and regulations. It is also important that the
+                    vehicle is operated, maintained and serviced according to Volvo's
+                    recommendations provided in the owner's information.</p>
+                <p class="- topic/p " xtrc="p:6;29:20" xtrf="file:/C:/Oxygen/DITA_exercise/c_owner_s_information.dita">If the information in the center display and other sources differs, the
+                    information in the center display applies.</p>
+            </note>
+        </p>
+        <p class="- topic/p " xtrc="p:7;33:12" xtrf="file:/C:/Oxygen/DITA_exercise/c_owner_s_information.dita"><b class="+ topic/ph hi-d/b " xtrc="b:2;33:15" xtrf="file:/C:/Oxygen/DITA_exercise/c_owner_s_information.dita">Volvo Cars support site</b></p>
+        <p class="- topic/p " xtrc="p:8;34:12" xtrf="file:/C:/Oxygen/DITA_exercise/c_owner_s_information.dita">Volvo Cars' website and support site contain additional information about your vehicle. </p>
+        <p class="- topic/p " xtrc="p:9;35:12" xtrf="file:/C:/Oxygen/DITA_exercise/c_owner_s_information.dita">Go to <xref class="- topic/xref " format="html" href="https://www.volvocars.com/intl/support/" scope="external" xtrc="xref:2;36:18" xtrf="file:/C:/Oxygen/DITA_exercise/c_owner_s_information.dita"><?ditaot usertext?>volvocars.com/intl/support</xref> and select your country. The website is available
+            on most </p>
+        <p class="- topic/p " xtrc="p:10;38:12" xtrf="file:/C:/Oxygen/DITA_exercise/c_owner_s_information.dita">Contact information for customer support and your nearest Volvo retailer are available on
+            the support site.</p>
+        <p class="- topic/p " id="unique_2_Connect_42_quick-guide" xtrc="p:11;40:29" xtrf="file:/C:/Oxygen/DITA_exercise/c_owner_s_information.dita">[1] Only available in certain markets.</p>
+    </conbody>
+</concept><task class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" id="unique_3" oid="t_how_to_create_volvo_id" specializations="@props/deliveryTarget" xtrc="task:1;3:37" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita">How to create a Volvo ID</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita">To use Volvo services connected to the vehicle, such as via the Volvo Cars app, a
+        Volvo ID must be created.</shortdesc><prolog class="- topic/prolog "><copyright class="- topic/copyright " xtrc="copyright:1;6:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;7:37" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap" year="2025"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;8:26" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo Co.</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;10:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <created class="- topic/created " date="2025-03-31" xtrc="created:1;11:41" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap"/>
+        </critdates><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;13:19" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <prodname class="- topic/prodname " xtrc="prodname:1;14:23" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo user guide</prodname>
+        </prodinfo></metadata></prolog>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;7:15" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita">
+        <steps class="- topic/ol task/steps " xtrc="steps:1;8:16" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita">
+            <stepsection class="- topic/li task/stepsection " xtrc="stepsection:1;9:26" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;9:29" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita">How to create a Volvo ID with the Volvo Cars app</b></stepsection>
+            <step class="- topic/li task/step " xtrc="step:1;10:19" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;11:22" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita">Download the latest version of the Volvo Cars app <xref class="- topic/xref " href="#unique_3/unique_3_Connect_42_bottom-note" ohref="t_how_to_create_a_volvo_id.dita#t_how_to_create_volvo_id/bottom-note" type="p" xtrc="xref:1;12:26" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita"><?ditaot usertext?>1</xref> to your phone.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:2;14:19" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2;15:22" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita">Download the latest version of the Volvo Cars app <xref class="- topic/xref " href="#unique_3/unique_3_Connect_42_bottom-note" ohref="t_how_to_create_a_volvo_id.dita#t_how_to_create_volvo_id/bottom-note" type="p" xtrc="xref:2;16:30" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita"><?ditaot usertext?><xref class="- topic/xref " href="#unique_3/unique_3_Connect_42_bottom-note" ohref="t_how_to_create_a_volvo_id.dita#t_how_to_create_volvo_id/bottom-note" type="p" xtrc="xref:3;16:58" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita"><?ditaot usertext?>1</xref></xref> to your phone.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:3;18:19" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3;19:22" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita">Choose to create a Volvo ID.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:4;21:19" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4;22:22" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita">The website for creating a Volvo ID will appear.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:5;24:19" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:5;25:22" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita">Enter a personal email address or cell phone number.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:6;27:19" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:6;28:22" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita">Follow the instructions that will be sent automatically to this email
+                    address/cell phone number.</cmd>
+                <stepresult class="- topic/itemgroup task/stepresult " xtrc="stepresult:1;30:29" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita">
+                    <p class="- topic/p " xtrc="p:1;31:24" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita">A Volvo ID is created and ready for use.</p>
+                </stepresult>
+            </step>
+        </steps>
+        <stepsection class="- topic/li task/stepsection " xtrc="stepsection:2;35:22" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita"><b class="+ topic/ph hi-d/b " xtrc="b:2;35:25" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita">Creating a Volvo ID on the Volvo Cars website</b><ol class="- topic/ol " id="unique_3_Connect_42_ol_pt4_3nx_v2c" xtrc="ol:1;35:98" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita">
+                <li class="- topic/li " xtrc="li:1;36:21" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita">Go to <xref class="- topic/xref " format="html" href="https://volvoid.eu.volvocars.com/Account/" scope="external" xtrc="xref:4;37:42" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita"><?ditaot usertext?>volvoid.eu.volvocars.com/Account</xref>. Choose to create a
+                    Volvo ID.</li>
+                <li class="- topic/li " xtrc="li:2;39:21" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita">Enter a personal email address or cell phone number.</li>
+                <li class="- topic/li " xtrc="li:3;40:21" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita">Follow the instructions that will be sent automatically to this email
+                    address/cell phone number.</li>
+            </ol><p class="- topic/p " xtrc="p:2;42:21" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita">A Volvo ID is created and ready for use.</p><p class="- topic/p " id="unique_3_Connect_42_bottom-note" xtrc="p:3;42:85" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_create_a_volvo_id.dita">[1]Can be
+                downloaded from e.g. the Apple App Store or Google Play.</p></stepsection>
+    </taskbody>
+</task><task class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" id="unique_4" oid="t_how_to_get_started_with_google_services" specializations="@props/deliveryTarget" xtrc="task:1;3:54" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_get_started_with_google_services.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_get_started_with_google_services.dita">How to get started with Google services</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_get_started_with_google_services.dita">Connect your Google account to your user profile to get started with Google
+        services.</shortdesc><prolog class="- topic/prolog "><copyright class="- topic/copyright " xtrc="copyright:1;6:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;7:37" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap" year="2025"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;8:26" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo Co.</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;10:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <created class="- topic/created " date="2025-03-31" xtrc="created:1;11:41" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap"/>
+        </critdates><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;13:19" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <prodname class="- topic/prodname " xtrc="prodname:1;14:23" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo user guide</prodname>
+        </prodinfo></metadata></prolog>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;7:15" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_get_started_with_google_services.dita">
+        <context class="- topic/section task/context " xtrc="context:1;8:18" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_get_started_with_google_services.dita">
+            <p class="- topic/p " xtrc="p:1;9:16" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_get_started_with_google_services.dita">Being logged in with a Google account makes Google services such as the Google
+                Assistant and Google Maps more personalized. For Google Play to open, a Google
+                account must be connected to that user profile.</p>
+            <p class="- topic/p " xtrc="p:2;12:16" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_get_started_with_google_services.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;12:19" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_get_started_with_google_services.dita">How to create a Google account</b></p>
+            <p class="- topic/p " xtrc="p:3;13:16" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_get_started_with_google_services.dita">Go to <xref class="- topic/xref " format="html" href="https://accounts.google.com/signup" scope="external" xtrc="xref:1;14:22" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_get_started_with_google_services.dita"><?ditaot usertext?>accounts.google.com/signup</xref>. Enter your name, create or use an existing
+                email address and password. Enter your phone number and verify the account using the
+                code sent to the phone.</p>
+            <p class="- topic/p " xtrc="p:4;17:16" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_get_started_with_google_services.dita"><b class="+ topic/ph hi-d/b " xtrc="b:2;17:19" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_get_started_with_google_services.dita">How to log in with a Google account in the center display</b></p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrc="steps:1;19:16" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_get_started_with_google_services.dita">
+            <step class="- topic/li task/step " xtrc="step:1;20:19" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_get_started_with_google_services.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;21:22" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_get_started_with_google_services.dita">Tap <image class="- topic/image " height="15" href="images/icon%203.jpeg" id="unique_4_Connect_42_image_a3f_pdx_v2c" placement="inline" width="15" xtrc="image:1;22:49" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_get_started_with_google_services.dita"/>, then <b class="+ topic/ph hi-d/b " xtrc="b:3;22:59" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_get_started_with_google_services.dita">Google</b> and then <b class="+ topic/ph hi-d/b " xtrc="b:4;22:82" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_get_started_with_google_services.dita">Google
+                        Assistant</b>. Tap the profile symbol to log in.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:2;25:19" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_get_started_with_google_services.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2;26:22" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_get_started_with_google_services.dita">Enter the email address connected to your Google account. Then tap
+                    <b class="+ topic/ph hi-d/b " xtrc="b:5;27:24" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_get_started_with_google_services.dita">Next</b>.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:3;29:19" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_get_started_with_google_services.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3;30:22" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_get_started_with_google_services.dita">Enter the password connected to your Google account. Then tap
+                    <b class="+ topic/ph hi-d/b " xtrc="b:6;31:24" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_get_started_with_google_services.dita">Next</b>.</cmd>
+            </step>
+            <stepsection class="- topic/li task/stepsection " xtrc="stepsection:1;33:26" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_get_started_with_google_services.dita">
+                <p class="- topic/p " xtrc="p:5;34:20" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_get_started_with_google_services.dita">If the login problem persists, make sure the vehicle is connected to the
+                    Internet.</p>
+            </stepsection>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" id="unique_5" oid="t_viewing_the_vehicle_identification_number_vin" specializations="@props/deliveryTarget" xtrc="task:1;3:60" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_view_the_vehicle_identification_number_vin.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_view_the_vehicle_identification_number_vin.dita">How to view the Vehicle Identification Number (VIN)</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_view_the_vehicle_identification_number_vin.dita">All vehicles have a unique identification number, a VIN <xref class="- topic/xref " href="#unique_5/unique_5_Connect_42_bottom-note" ohref="t_how_to_view_the_vehicle_identification_number_vin.dita#t_viewing_the_vehicle_identification_number_vin/bottom-note" type="p" xtrc="xref:1;6:14" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_view_the_vehicle_identification_number_vin.dita"><?ditaot usertext?>1</xref>.</shortdesc><prolog class="- topic/prolog "><copyright class="- topic/copyright " xtrc="copyright:1;6:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;7:37" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap" year="2025"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;8:26" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo Co.</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;10:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <created class="- topic/created " date="2025-03-31" xtrc="created:1;11:41" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap"/>
+        </critdates><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;13:19" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <prodname class="- topic/prodname " xtrc="prodname:1;14:23" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo user guide</prodname>
+        </prodinfo></metadata></prolog>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;7:15" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_view_the_vehicle_identification_number_vin.dita">
+        <context class="- topic/section task/context " xtrc="context:1;8:18" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_view_the_vehicle_identification_number_vin.dita">
+            <p class="- topic/p " xtrc="p:1;9:17" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_view_the_vehicle_identification_number_vin.dita"/>
+        </context>
+        <steps class="- topic/ol task/steps " xtrc="steps:1;11:16" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_view_the_vehicle_identification_number_vin.dita">
+            <step class="- topic/li task/step " xtrc="step:1;12:19" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_view_the_vehicle_identification_number_vin.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;13:22" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_view_the_vehicle_identification_number_vin.dita">Tap settings <image class="- topic/image " height="15" href="images/icon%203.jpeg" id="unique_5_Connect_42_image_q1d_4xx_v2c" placement="inline" width="15" xtrc="image:1;14:49" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_view_the_vehicle_identification_number_vin.dita"/>at the bottom of the center display.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:2;16:19" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_view_the_vehicle_identification_number_vin.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2;17:22" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_view_the_vehicle_identification_number_vin.dita">Proceed to System and then About.</cmd>
+                <info class="- topic/itemgroup task/info " xtrc="info:1;18:23" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_view_the_vehicle_identification_number_vin.dita">
+                    <p class="- topic/p " xtrc="p:2;19:24" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_view_the_vehicle_identification_number_vin.dita">The VIN can also be found:<ul class="- topic/ul " id="unique_5_Connect_42_ul_zcz_rxx_v2c" xtrc="ul:1;19:74" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_view_the_vehicle_identification_number_vin.dita">
+                            <li class="- topic/li " xtrc="li:1;20:33" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_view_the_vehicle_identification_number_vin.dita">on the first page of the Warranty and Service Records Information
+                                booklet</li>
+                            <li class="- topic/li " xtrc="li:2;22:33" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_view_the_vehicle_identification_number_vin.dita">n the vehicle's registration card</li>
+                            <li class="- topic/li " xtrc="li:3;23:33" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_view_the_vehicle_identification_number_vin.dita">by looking at the dashboard through the vehicle's windshield.</li>
+                        </ul></p>
+                    <p class="- topic/p " xtrc="p:3;25:24" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_view_the_vehicle_identification_number_vin.dita"><image class="- topic/image " height="364" href="images/photo1.jpg" id="unique_5_Connect_42_image_tmv_cyx_v2c" placement="inline" width="529" xtrc="image:2;26:52" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_view_the_vehicle_identification_number_vin.dita">
+                            <alt class="- topic/alt " xtrc="alt:1;27:34" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_view_the_vehicle_identification_number_vin.dita">The VIN has a similar location on all models.</alt>
+                        </image></p>
+                    <p class="- topic/p " id="unique_5_Connect_42_bottom-note" xtrc="p:4;29:41" xtrf="file:/C:/Oxygen/DITA_exercise/t_how_to_view_the_vehicle_identification_number_vin.dita">[1] Vehicle Identification Number</p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="unique_6" oid="c_seat_belts" specializations="@props/deliveryTarget" xtrc="concept:1;3:28" xtrf="file:/C:/Oxygen/DITA_exercise/c_seat_belts.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Oxygen/DITA_exercise/c_seat_belts.dita">Seat belts</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Oxygen/DITA_exercise/c_seat_belts.dita">Seat belts should always be worn by all occupants in your vehicle. Children should be
+        properly restrained using an infant seat, adjustable child seat or booster cushion as
+        determined by age, weight and height.</shortdesc><prolog class="- topic/prolog "><copyright class="- topic/copyright " xtrc="copyright:1;6:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;7:37" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap" year="2025"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;8:26" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo Co.</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;10:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <created class="- topic/created " date="2025-03-31" xtrc="created:1;11:41" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap"/>
+        </critdates><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;13:19" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <prodname class="- topic/prodname " xtrc="prodname:1;14:23" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo user guide</prodname>
+        </prodinfo></metadata></prolog>
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;8:14" xtrf="file:/C:/Oxygen/DITA_exercise/c_seat_belts.dita">
+        <p class="- topic/p " xtrc="p:1;9:12" xtrf="file:/C:/Oxygen/DITA_exercise/c_seat_belts.dita">Most states and provinces make it mandatory for occupants of a vehicle to use seat
+            belts.</p>
+        <p class="- topic/p " xtrc="p:2;11:12" xtrf="file:/C:/Oxygen/DITA_exercise/c_seat_belts.dita"><b class="+ topic/ph hi-d/b " xtrc="b:1;11:15" xtrf="file:/C:/Oxygen/DITA_exercise/c_seat_belts.dita">Seat belt maintenance</b></p>
+        <p class="- topic/p " xtrc="p:3;12:12" xtrf="file:/C:/Oxygen/DITA_exercise/c_seat_belts.dita">Check periodically that the seat belts are in good condition. Use water and a mild
+            detergent for cleaning. Check the seat belt mechanism's function as follows: attach the
+            seat belt and pull rapidly on the strap.<note class="- topic/note " id="unique_6_Connect_42_note_f1f_3zx_v2c" type="warning" xtrc="note:1;14:96" xtrf="file:/C:/Oxygen/DITA_exercise/c_seat_belts.dita">
+                <ul class="- topic/ul " id="unique_6_Connect_42_ul_f22_jzx_v2c" xtrc="ul:1;15:41" xtrf="file:/C:/Oxygen/DITA_exercise/c_seat_belts.dita">
+                    <li class="- topic/li " xtrc="li:1;16:25" xtrf="file:/C:/Oxygen/DITA_exercise/c_seat_belts.dita">Never repair the belt yourself. Repairs should only be performed by a
+                        trained and qualified Volvo service technician.</li>
+                    <li class="- topic/li " xtrc="li:2;18:25" xtrf="file:/C:/Oxygen/DITA_exercise/c_seat_belts.dita">Any device used to induce slack into the shoulder belt portion of the
+                        three-point belt system will have a detrimental effect on the amount of
+                        protection available in the event of a collision.</li>
+                    <li class="- topic/li " xtrc="li:3;21:25" xtrf="file:/C:/Oxygen/DITA_exercise/c_seat_belts.dita">The seat back should not be tilted too far back. The shoulder belt must be
+                        taut in order to function properly.</li>
+                    <li class="- topic/li " xtrc="li:4;23:25" xtrf="file:/C:/Oxygen/DITA_exercise/c_seat_belts.dita">Do not use any type of child restraint in the front passenger seat. We
+                        recommend that children who have outgrown these devices sit in the rear seat
+                        with the seat belt properly fastened.</li>
+                </ul>
+            </note></p>
+    </conbody>
+</concept><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="unique_7" oid="r_towing_capacity_and_tongue_weight" specializations="@props/deliveryTarget" xtrc="reference:1;3:53" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">Towing capacity and tongue weight</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">Towing capacity and tongue weight are shown in the table.</shortdesc><prolog class="- topic/prolog "><copyright class="- topic/copyright " xtrc="copyright:1;6:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;7:37" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap" year="2025"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;8:26" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo Co.</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;10:20" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <created class="- topic/created " date="2025-03-31" xtrc="created:1;11:41" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap"/>
+        </critdates><metadata class="- topic/metadata "><prodinfo class="- topic/prodinfo " xtrc="prodinfo:1;13:19" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">
+            <prodname class="- topic/prodname " xtrc="prodname:1;14:23" xtrf="file:/C:/Oxygen/DITA_exercise/m-volvo_user_guide.ditamap">Volvo user guide</prodname>
+        </prodinfo></metadata></prolog>
+    <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;6:14" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">
+        <table class="- topic/table " id="unique_7_Connect_42_table_kdd_41y_v2c" xtrc="table:1;7:39" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">
+            <tgroup align="left" class="- topic/tgroup " cols="4" xtrc="tgroup:1;8:43" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">
+                <colspec align="left" class="- topic/colspec " colname="col1" colnum="1" xtrc="colspec:1;9:64" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita"/>
+                <colspec align="left" class="- topic/colspec " colname="col2" colnum="2" xtrc="colspec:2;10:64" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita"/>
+                <colspec class="- topic/colspec " colname="col3" colnum="3" xtrc="colspec:3;11:51" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita"/>
+                <colspec class="- topic/colspec " colname="col4" colnum="4" xtrc="colspec:4;12:51" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita"/>
+                <thead class="- topic/thead " xtrc="thead:1;13:24" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">
+                    <row class="- topic/row " valign="middle" xtrc="row:1;14:42" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">
+                        <entry align="center" class="- topic/entry " colname="col1" dita-ot:morecols="1" dita-ot:x="1" dita-ot:y="1" nameend="col2" namest="col1" xtrc="entry:1;15:72" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">Category</entry>
+                        <entry align="center" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:2;16:47" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">USA (lbs)</entry>
+                        <entry align="center" class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="1" xtrc="entry:3;17:47" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">Canada (kg)</entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody " xtrc="tbody:1;20:24" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">
+                    <row class="- topic/row " xtrc="row:2;21:26" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">
+                        <entry align="left" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" morerows="2" valign="middle" xtrc="entry:4;22:74" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">Max trailer weights</entry>
+                        <entry align="left" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" valign="middle" xtrc="entry:5;23:61" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">Without brakes</entry>
+                        <entry align="center" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" valign="middle" xtrc="entry:6;24:63" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">1650</entry>
+                        <entry align="center" class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="2" valign="middle" xtrc="entry:7;25:63" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">750</entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:3;27:26" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">
+                        <entry align="left" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" valign="middle" xtrc="entry:8;28:61" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">With brake (AWD)</entry>
+                        <entry align="center" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" valign="middle" xtrc="entry:9;29:63" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">2000</entry>
+                        <entry align="center" class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="3" valign="middle" xtrc="entry:10;30:63" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">900</entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:4;32:26" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">
+                        <entry align="left" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" valign="middle" xtrc="entry:11;33:61" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">Braked (AWD tow pack)</entry>
+                        <entry align="center" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" valign="middle" xtrc="entry:12;34:63" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">3500</entry>
+                        <entry align="center" class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="4" valign="middle" xtrc="entry:13;35:63" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">1580</entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:5;37:26" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">
+                        <entry align="left" class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" morerows="1" valign="middle" xtrc="entry:14;38:74" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">Max tongue weight</entry>
+                        <entry align="left" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" valign="middle" xtrc="entry:15;39:61" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">AWD</entry>
+                        <entry align="center" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5" valign="middle" xtrc="entry:16;40:63" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">200</entry>
+                        <entry align="center" class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="5" valign="middle" xtrc="entry:17;41:63" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">90</entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:6;43:26" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">
+                        <entry align="left" class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" valign="middle" xtrc="entry:18;44:61" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">AWD (tow pack)</entry>
+                        <entry align="center" class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6" valign="middle" xtrc="entry:19;45:63" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">350</entry>
+                        <entry align="center" class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="6" valign="middle" xtrc="entry:20;46:63" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">150</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table class="- topic/table " colsep="0" frame="none" id="unique_7_Connect_42_table_yxm_chy_v2c" rowsep="0" xtrc="table:2;51:74" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">
+            <tgroup class="- topic/tgroup " cols="1" xtrc="tgroup:2;52:30" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:5;53:65" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita"/>
+                <tbody class="- topic/tbody " xtrc="tbody:2;54:24" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">
+                    <row class="- topic/row " xtrc="row:7;55:26" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">
+                        <entry class="- topic/entry " colname="col1" colsep="0" dita-ot:x="1" dita-ot:y="1" rowsep="0" xtrc="entry:21;56:54" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">
+                            <note class="- topic/note " id="unique_7_Connect_42_note_pz2_dhy_v2c" type="important" xtrc="note:1;57:74" xtrf="file:/C:/Oxygen/DITA_exercise/r_towing_capacity_and_tongue_weight.dita">The maximum trailer weights
+                                listed are only applicable for altitudes up to 3280 ft (1,000 m)
+                                above sea level. With increasing altitude the engine power and
+                                therefore the car's climbing ability are impaired because of the
+                                reduced air density, so the maximum trailer weight has to be reduced
+                                accordingly. The weight of the car and trailer must be reduced by
+                                10% for every further 3280 ft (1,000 m) (or part thereof).</note>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference><opentopic-index:index.groups/></map>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="g_glossary">
+    <glossterm>All-wheel drive specific</glossterm>
+    <glossdef>
+        <p>the drivetrain is powering all your wheels in order to have traction through better
+            means. AWD provides improved traction on challenging road conditions, such as wet or
+            snow-covered streets, ensuring a confident driving experience.</p>
+    </glossdef>
+    <glossBody>
+        <glossAlt id="glossAlt_s55_j5z_w2c">
+            <glossAcronym>AWD</glossAcronym>
+        </glossAlt>
+    </glossBody>
+</glossentry>

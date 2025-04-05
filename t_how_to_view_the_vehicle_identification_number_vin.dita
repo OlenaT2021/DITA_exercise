@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_viewing_the_vehicle_identification_number_vin">
+    <title>How to view the Vehicle Identification Number (VIN)</title>
+    <shortdesc>All vehicles have a unique identification number, a VIN <xref href="#./bottom-note"
+            >1</xref>.</shortdesc>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>Tap settings <image href="images/icon%203.jpeg" width="15" height="15"
+                        id="image_q1d_4xx_v2c"/>at the bottom of the center display.</cmd>
+            </step>
+            <step>
+                <cmd>Proceed to System and then About.</cmd>
+                <info>
+                    <p>The VIN can also be found:<ul id="ul_zcz_rxx_v2c">
+                            <li>on the first page of the Warranty and Service Records Information
+                                booklet</li>
+                            <li>n the vehicle's registration card</li>
+                            <li>by looking at the dashboard through the vehicle's windshield.</li>
+                        </ul></p>
+                    <p><image href="images/photo1.jpg" width="529" height="364"
+                            id="image_tmv_cyx_v2c">
+                            <alt>The VIN has a similar location on all models.</alt>
+                        </image></p>
+                    <p id="bottom-note">[1] Vehicle Identification Number</p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

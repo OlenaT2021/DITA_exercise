@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_how_to_create_volvo_id">
+    <title>How to create a Volvo ID</title>
+    <shortdesc>To use Volvo services connected to the vehicle, such as via the Volvo Cars app, a
+        Volvo ID must be created.</shortdesc>
+    <taskbody>
+        <steps>
+            <stepsection><b>How to create a Volvo ID with the Volvo Cars app</b></stepsection>
+            <step>
+                <cmd>Download the latest version of the Volvo Cars app <xref href="#./bottom-note"
+                        >1</xref> to your phone.</cmd>
+            </step>
+            <step>
+                <cmd>Download the latest version of the Volvo Cars app <xref href="#./bottom-note"
+                        >1</xref> to your phone.</cmd>
+            </step>
+            <step>
+                <cmd>Choose to create a Volvo ID.</cmd>
+            </step>
+            <step>
+                <cmd>The website for creating a Volvo ID will appear.</cmd>
+            </step>
+            <step>
+                <cmd>Enter a personal email address or cell phone number.</cmd>
+            </step>
+            <step>
+                <cmd>Follow the instructions that will be sent automatically to this email
+                    address/cell phone number.</cmd>
+                <stepresult>
+                    <p>A Volvo ID is created and ready for use.</p>
+                </stepresult>
+            </step>
+            <stepsection><b>Creating a Volvo ID on the Volvo Cars website</b><ol id="ol_pt4_3nx_v2c">
+                    <li>Go to <xref href="https://volvoid.eu.volvocars.com/Account/" format="html"
+                            scope="external">volvoid.eu.volvocars.com/Account</xref>. Choose to
+                        create a Volvo ID.</li>
+                    <li>Enter a personal email address or cell phone number.</li>
+                    <li>Follow the instructions that will be sent automatically to this email
+                        address/cell phone number.</li>
+                </ol><p>A Volvo ID is created and ready for use.</p><p id="bottom-note">[1]Can be
+                    downloaded from e.g. the Apple App Store or Google Play.</p></stepsection>
+        </steps>
+    </taskbody>
+</task>
