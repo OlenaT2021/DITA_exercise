@@ -14,19 +14,16 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>m-volvo_user_guide (HTML5)</String>
                                         <String>m-volvo_user_guide (WebHelp Responsive)</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
                                         <String>DITAMAP</String>
-                                        <String>DITAMAP</String>
                                     </list>
                                 </field>
                                 <field name="scenarioStorageLocations">
                                     <list>
-                                        <Byte>2</Byte>
                                         <Byte>2</Byte>
                                     </list>
                                 </field>
