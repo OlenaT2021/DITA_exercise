@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_volvo_car_webite">
+    <title>Volvo Car website</title>
+    <shortdesc>A Volvo ID is created and ready for use.</shortdesc>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <stepsection><b>Creating a Volvo ID on the Volvo Cars website</b></stepsection>
+            <step>
+                <cmd>Go to <xref href="https://volvoid.eu.volvocars.com/Account/" format="html"
+                        scope="external">volvoid.eu.volvocars.com/Account</xref>. Choose to create a
+                    Volvo ID.</cmd>
+            </step>
+            <step>
+                <cmd>Enter a personal email address or cell phone number.</cmd>
+            </step>
+            <step>
+                <cmd>Follow the instructions that will be sent automatically to this email
+                    address/cell phone number.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"t_how_to_create_volvo_id-d209e95":{"topics":[{"title":"Volvo Car website","shortdesc":"<p class=\"shortdesc\">A Volvo ID is created and ready for use.<\/p>","href":"t_how_to_create_a_volvo_id.html#t_volvo_car_webite","attributes":{"data-id":"t_volvo_car_webite"},"menu":{"hasChildren":false},"tocID":"t_volvo_car_webite-d209e122","topics":[]}]}};
